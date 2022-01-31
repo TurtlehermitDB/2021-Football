@@ -1,1 +1,164 @@
 # 2021-Football
+[START_CONFERENCES]
+ACCAtlanticCoastal
+Big TenEastWest
+Big 12NorthSouth
+Pac-12NorthSouth
+SECEastWest
+AmericanEastWest
+MACEastWest
+Conf USAEastWest
+Mt WestMountainWest
+Sun BeltEastWest
+IndependentIndyIndy
+[END_CONFERENCES]
+[START_TEAMS]
+Boston CollegeBCACC65Atlantic3
+ClemsonCLEMACC85Atlantic3
+DukeDUKEACC50Coastal3
+Florida StateFSUACC65Atlantic3
+Georgia TechGTACC55Coastal3
+LouisvilleLOUIACC62Atlantic4
+MiamiMIAACC70Coastal3
+North CarolinaUNCACC50Coastal3
+NC StateNCSTACC65Atlantic3
+PittsburghPITTACC64Coastal3
+SyracuseSYRACC62Atlantic3
+Wake ForestWAKEACC65Atlantic3
+VirginiaVIRACC62Coastal3
+Virginia TechVTECACC65Coastal3
+[END_CONF]
+IllinoisILLBig Ten50West2
+IndianaINDBig Ten50East2
+IowaIOWBig Ten65West1
+MarylandMARYBig Ten53East3
+MichiganMICBig Ten80East2
+Michigan StateMSUBig Ten75East2
+MinnesotaMINBig Ten63West1
+NebraskaNEBBig Ten60West1
+NorthwesternNWUBig Ten60West2
+Ohio StateOSUBig Ten85East2
+Penn StatePSUBig Ten75East3
+PurduePURBig Ten50West2
+RutgersRUTBig Ten50East3
+WisconsinWISBig Ten70West2
+[END_CONF]
+BaylorBAYBig 1265South1
+BYUBYUBig 1255North0
+Central FloridaUCFBig 1250South3
+CincinnatiCINNBig 1260North2
+HoustonHOUBig 1255South1
+Iowa StateISUBig 1265North1
+Texas TechTTECBig 1255South1
+KansasKANBig 1250North1
+Kansas StateKSUBig 1258North1
+Oklahoma StateOKSTBig 1273South1
+TCUTCUBig 1267South1
+West VirginiaWVUBig 1266North2
+[END_CONF]
+ArizonaARIZPac-1250South0
+Arizona StateASUPac-1260South0
+CaliforniaCALPac-1260North0
+ColoradoCOLPac-1250South0
+OregonOREGPac-1280North0
+Oregon StateORSTPac-1265North0
+StanfordSTANPac-1265North0
+UCLAUCLAPac-1260South0
+USCUSCPac-1267South0
+WashingtonWASHPac-1267North0
+Washington StateWSUPac-1267North0
+UtahUTAHPac-1270South0
+[END_CONF]
+AlabamaBAMASEC85East4
+ArkansasARKSEC57West4
+AuburnAUBSEC75East4
+FloridaFLORSEC75East3
+GeorgiaUGASEC85East4
+KentuckyUKSEC69East2
+LSULSUSEC80West4
+MissouriMIZSEC65West1
+Ole MissMISSSEC60West4
+OklahomaOKLSEC85West1
+Mississippi StateMSSTSEC73West4
+South CarolinaSCSEC65East4
+TennesseeTENNSEC67East4
+TexasTEXSEC73West1
+Texas AMTXAMSEC70West1
+VanderbiltVANDSEC50East4
+[END_CONF]
+CharlotteCHARAmerican40East3
+East CarolinaECUAmerican40East3
+Florida AtlFAUAmerican45East3
+MemphisMEMPAmerican50East4
+NavyNAVYAmerican43East3
+North TexasNTEXAmerican43West1
+RiceRICEAmerican32West1
+South FloridaUSFAmerican40East3
+Southern MethodistSMUAmerican45West4
+TempleTEMAmerican43East3
+TulaneTULAmerican38West4
+TulsaTULSAmerican42West1
+UABUABAmerican45West4
+UT San AntonioUTSAAmerican43West1
+[END_CONF]
+AkronAKRMAC35East2
+Ball StateBALMAC28West2
+Bowling GreenBGMAC30East2
+BuffaloBUFMAC34East3
+Central MichiganCMUMAC40West2
+Eastern MichiganEMUMAC38West2
+Kent StateKNSTMAC30East2
+Miami OHMiOHMAC34East2
+Northern IllinoisNIUMAC44West2
+OhioOHIOMAC44East2
+ToledoTOLMAC44West2
+Western MichiganWMUMAC44West2
+[END_CONF]
+Florida IntlFIUConf USA44East3
+Jacksonville StateJSUConf USA30East3
+LA TechLTECConf USA44West4
+LibertyLIBConf USA33East3
+Mid Tenn StateMTSUConf USA42East4
+New Mexico StNMSTConf USA38West1
+Sam HoustonSAMHConf USA30West1
+UT El PasoUTEPConf USA34West1
+Western KentuckyWKUConf USA43East4
+[END_CONF]
+Air ForceAFMt West42Mountain0
+Boise StateBOISMt West47Mountain0
+Colorado StateCSUMt West40Mountain0
+Fresno StateFRESMt West50West0
+HawaiiHAWMt West38West0
+NevadaNEVMt West43West0
+New MexicoNMEXMt West32Mountain1
+San Diego StateSDSUMt West50West0
+San Jose StateSJSUMt West30West0
+UNLVUNLVMt West28West0
+Utah StateUTSTMt West45Mountain0
+WyomingWYMMt West45Mountain0
+[END_CONF]
+Appalachian StateAPPSun Belt42East2
+Arkansas StateAKSSun Belt33West4
+Coastal CarolinaCOCSun Belt36East5
+James MadisonJMADSun Belt30East4
+LA MonroeLMONSun Belt38West4
+LouisianaLALFSun Belt35West4
+MarshallMARSSun Belt44East3
+Old DominionODOMSun Belt35East3
+TroyTROYSun Belt43West4
+Texas StateTXSTSun Belt30West1
+Georgia SouthernGASOSun Belt37East4
+Georgia StateGASTSun Belt27East4
+South AlabamaSALSun Belt31West4
+Southern MissSMISSun Belt42West4
+[END_CONF]
+ArmyARMYIndependent43INDY3
+Notre DameNDIndependent80INDY2
+UConnUCONIndependent30 INDY3
+UMass MASS Independent 38 INDY3
+[END_CONF]
+[END_TEAMS]
+Rose Bowl Orange Bowl Sugar Bowl Fiesta Bowl Peach Bowl Cotton Bowl Citrus Bowl Gator Bowl Cactus Bowl Alamo Bowl Holiday Bowl Sun Bowl Liberty Bowl Independence Bowl Vegas Bowl Military Bowl Aloha Bowl Humanitarian Bowl Outback Bowl Camping Bowl Potato Bowl Music City Bowl New Orleans Bowl Texas Bowl New Mexico Bowl Arizona Bowl Frisco Bowl Cure Bowl Camellia Bowl Bahamas Bowl Birmingham Bowl First Responder Bowl
+[END_BOWL_NAMES]
+
+
